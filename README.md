@@ -2,8 +2,8 @@
 Setup Mac OS within Windows 10 using VirtualBox
 
 ## Mac OS version involved:
-- The below steps work for Big Sur
-- We tried for Monterey, but not working yet, will update if any progress
+- The below steps work for **Big Sur**
+- We tried for **Monterey**, but not working yet, will update if any progress
 
 ## Steps:
 - Download and install **VirtualBox** as well as the corresponding **VirtualBox Extension Pack** for Windows 10 via: https://www.virtualbox.org/wiki/Downloads
@@ -65,7 +65,9 @@ Setup Mac OS within Windows 10 using VirtualBox
     - Click **+** on the DNS entries and input **8.8.4.4**
     - You should be able to then log in your apple ID via the App Store (Not via the Settings)
 
-
+## Subsequent
+- Such VM setup is supposed to provide a MacOS for user to develop iOS app without a Windows 10 machine
+- With **Big Sur** installed, the corresponding **XCode** version will be relatively older
 
 
 
