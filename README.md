@@ -14,9 +14,14 @@ Setup Mac OS within Windows 10 using VirtualBox
 
 - Luanch the VirtualBox and install the macOS ISO images as below:
     - ![click **New**](1.png)
+    
     - ![click **Create**](2.png)
     
     Make sure to note the **Name** you input, which will be needed later on.
+
+    - ![click **Create**](3.png)
+
+    Note we recommend to set at least 128GB hard disk size for the virtual macOS.
 
 - Obtain the VirtualBox code for the macOS version we plan to install (search Google):
     - VirtualBox_Code_BigSur.txt
