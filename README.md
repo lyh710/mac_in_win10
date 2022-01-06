@@ -15,6 +15,7 @@ Setup Mac OS within Windows 10 using VirtualBox
 - Luanch the VirtualBox and install the macOS ISO images as below:
     - ![click **New**](1.png)
     - ![click **Create**](2.png)
+    
     Make sure to note the **Name** you input, which will be needed later on.
 
 - Obtain the VirtualBox code for the macOS version we plan to install (search Google):
