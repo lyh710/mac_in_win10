@@ -56,8 +56,16 @@ Setup Mac OS within Windows 10 using VirtualBox
     - Return back to the menu and go for **Install macOS Monterey". Follow the prompts and the process shall take about 30 mins.
 
 
-- Obtain the VirtualBox code for config the screen resolution after the macOS VM setup:
+- Obtain the VirtualBox code for config the screen resolution after the macOS VM setup (search Google):
     - VirtualBox_Code_macOS_Screen_Resolution.txt
+    - Exit the VirtualBox manager, and execute the code via **command prompt** of Windows 10.
+
+- Once the virtual MacOS completely setup, you may find issue trying to login your Apple ID. This can be solved by:
+    - Within the VM MacOS, go for **system** --> **Network** --> **Advanced**
+    - Click **+** on the DNS entries and input **8.8.4.4**
+    - You should be able to then log in your apple ID via the App Store (Not via the Settings)
+
+
 
 
 
