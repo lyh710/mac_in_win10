@@ -50,6 +50,12 @@ Setup Mac OS within Windows 10 using VirtualBox
 
 - Execute the above VirtualBox code via the **command prompt** of Windows 10 (as Administrator)
 
+- Luanch the VirtualBox again, select the MacOS VM we setup and click **Start**:
+    - After initial loading
+    - Go to **Disk Utility** and **Erase** the **VBOX HARDDISK Media**, for a clean install later on. You can pick a name for the new hard disk as you like, and go with **Mac OS Extended** format when asked.
+    - Return back to the menu and go for **Install macOS Monterey". Follow the prompts and the process shall take about 30 mins.
+
+
 - Obtain the VirtualBox code for config the screen resolution after the macOS VM setup:
     - VirtualBox_Code_macOS_Screen_Resolution.txt
 
