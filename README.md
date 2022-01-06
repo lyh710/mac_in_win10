@@ -2,8 +2,8 @@
 Setup Mac OS within Windows 10 using VirtualBox
 
 ## Mac OS version involved:
-- Big Sur
-- Monterey
+- The below steps work for Big Sur
+- We tried for Monterey, but not working yet, will update if any progress
 
 ## Steps:
 - Download and install **VirtualBox** as well as the corresponding **VirtualBox Extension Pack** for Windows 10 via: https://www.virtualbox.org/wiki/Downloads
