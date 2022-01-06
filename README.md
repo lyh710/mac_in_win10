@@ -25,6 +25,21 @@ Setup Mac OS within Windows 10 using VirtualBox
 
     - The initial virtual machine (by the **Name** you input above) should be setup by now, and we can continue with more **Settings**:
         - ![**Settings**](imgs/4.png)
+        
+        - ![**Settings**system](imgs/5.png)
+
+        For **System**:
+            - Remove "Floppy" as we don't need it
+            -  More importantly, we shall allocate **no more than** half of the CPU we have in total, to maintain balanced performance between the host Windows 10 and the virtual Mac.
+
+        - ![**Settings**display](imgs/6.png)
+         Note to set the Display memory to **maximum**
+
+        - ![**Settings**storage](imgs/7.png) 
+
+        Note to select the corresponding ISO image we have obtained.
+
+        - ![**Settings**USB](imgs/8.png) 
 
 - Obtain the VirtualBox code for the macOS version we plan to install (search Google):
     - VirtualBox_Code_BigSur.txt
