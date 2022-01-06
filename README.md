@@ -19,9 +19,12 @@ Setup Mac OS within Windows 10 using VirtualBox
     
     Make sure to note the **Name** you input, which will be needed later on.
 
-    - ![click **Create**](3.png)
+    - ![set **disk size**](3.png)
 
     Note we recommend to set at least 128GB hard disk size for the virtual macOS.
+
+    - The initial virtual machine (by the **Name** you input above) should be setup by now, and we can continue with more **Settings**:
+        - ![**Settings**](4.png)
 
 - Obtain the VirtualBox code for the macOS version we plan to install (search Google):
     - VirtualBox_Code_BigSur.txt
